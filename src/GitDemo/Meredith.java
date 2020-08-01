@@ -9,7 +9,7 @@ public class Meredith {
         System.out.println("practices...!!");
 
         int a =5;
-
+        System.out.println(++a);
 
     }
 
