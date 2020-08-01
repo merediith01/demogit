@@ -7,6 +7,10 @@ public class Meredith {
         System.out.println("Hello guys ...!!!");
 
         System.out.println("practices...!!");
+
+        int a =5;
+
+
     }
 
 }
