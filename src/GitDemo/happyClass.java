@@ -8,5 +8,7 @@ public class happyClass {
         System.out.println("testing practice");
         // a new line is been added
 
+
+        System.out.println("see new changes");
     }
 }
